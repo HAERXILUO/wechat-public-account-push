@@ -3,7 +3,7 @@ const TEMPLATE_CONFIG = [
   {
     id: '0001',
     desc: `
-      **🗓️{{date.DATA}}**
+      🗓️{{date.DATA}}
       
       下个休息日：{{holidaytts.DATA}}
       
