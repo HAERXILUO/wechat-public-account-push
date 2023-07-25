@@ -10,14 +10,14 @@ const USER_CONFIG = {
   USE_PASSAGE: 'push-deer',
   
   // 使用微信测试号：公众号APP_ID
-  APP_ID: '',
+  APP_ID: 'wx043e161b901577ea',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: '',
+  APP_SECRET: 'e83c17ca34f9408a9937fcce785071fd',
 
-  PROVINCE: '广东',
-  CITY: '惠州',
-
+  PROVINCE: '重庆',
+  CITY: '南岸区',
+  
   USERS: [
     {
       // 想要发送的人的名字
@@ -55,9 +55,9 @@ const USER_CONFIG = {
 
   CALLBACK_USERS: [
     {
-      name: '自己',
+      name: 'mxj',
       // 使用微信测试号：自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: '',
+      id: 'o9u3u6qwowZQxxD5SizbTS4imgDo',
     }
   ],
 
