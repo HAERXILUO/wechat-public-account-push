@@ -17,6 +17,7 @@ const USER_CONFIG = {
 
   PROVINCE: '重庆',
   CITY: '南岸区',
+
   
   USERS: [
     {
